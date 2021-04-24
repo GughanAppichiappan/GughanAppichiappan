@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GughanAppichiappan
 - 👀 I’m interested in developing websites
 - 🌱 I’m currently learning react js
-- 📫 Reach me at: aegughan@gmail.co,
+- 📫 Reach me at: aegughan@gmail.com
 
 <!---
 GughanAppichiappan/GughanAppichiappan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
