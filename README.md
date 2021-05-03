@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GughanAppichiappan
-- 👀 I’m interested in developing websites
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning react js
 - 📫 Reach me at: aegughan@gmail.com
 
